@@ -1,0 +1,7 @@
+[2026-02-03/ 11:29:31.841:INFO:selfupdate_helper_win.cc(214)] Current user isNon-Admin
+[2026-02-03/ 11:29:31.854:INFO:selfupdate_helper_win.cc(365)] Self Update Task Started Event Handle= 000000000000034C
+[2026-02-03/ 11:29:31.859:INFO:selfupdate_helper_win.cc(490)] Triggering Application Event hEventLog = 0000022BD88A89B0
+[2026-02-03/ 11:29:31.963:INFO:selfupdate_helper_win.cc(511)] RunSelfUpdateTask: foundTask = 1 succeded = 1
+[2026-02-07/ 13:05:41.157:INFO:browser_app_win.cc(322)] filePath to delete: NVIDIA App\UpdateFramework\status\nvapp\nvAppUpdate.json
+[2026-02-07/ 13:05:41.161:INFO:cefmain_win.cc(391)] Invoking CefInitialize
+[2026-02-07/ 13:05:41.163:WARNING:browser_app_win.cc(548)] Unable to read protocol whitelist from registry, status 2

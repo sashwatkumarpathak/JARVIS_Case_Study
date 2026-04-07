@@ -1,0 +1,26 @@
+{
+  "futuristic tone": {
+    "pitch": 1.2000000000000002,
+    "speed": 1.0,
+    "echo": true,
+    "robotic": false
+  },
+  "kid": {
+    "pitch": 1.3000000000000003,
+    "speed": 1.0,
+    "echo": false,
+    "robotic": false
+  },
+  "bhojpuri": {
+    "pitch": 1.4000000000000004,
+    "speed": 1.1,
+    "echo": false,
+    "robotic": false
+  },
+  "a": {
+    "pitch": 0.9,
+    "speed": 1.0,
+    "echo": false,
+    "robotic": false
+  }
+}
